@@ -1,0 +1,4 @@
+id,nombre,cantidad
+1,Teclado,50
+2,Mouse,100
+3,Monitor,25
